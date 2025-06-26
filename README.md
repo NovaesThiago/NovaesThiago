@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🎓 Studying analysis and development of systems in IFPI(Instituto Federal do Piaui)
+- 🌱 Currently learning Python, VUE.js, C and database systems (PostgreSQL)
 - 📫 How to reach me: novaesthiagoss@gmail.com
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
