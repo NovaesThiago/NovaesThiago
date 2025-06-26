@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
@@ -43,10 +43,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## 🤝 Connect with me
+## Connect with me
 
 <p align="left">
-  <a href="https://www.instagram.com/thiago_nova3s/" target="_blank">
+  <a href="https://www.instagram.com/thiago_nova3s" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/thiago-novaes-2181532a8/" target="_blank">
