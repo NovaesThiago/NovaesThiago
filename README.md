@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagonovaes&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagonovaes&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonovaes&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 - 🎓 Studying analysis and development of systems in IFPI(Instituto Federal do Piaui)
