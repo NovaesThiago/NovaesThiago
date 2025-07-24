@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagonovaes&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonovaes&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NovaesThiago&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaesThiago&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 - 🎓 Studying analysis and development of systems in IFPI(Instituto Federal do Piaui)
