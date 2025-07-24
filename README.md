@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NovaesThiago&show_icons=true&theme=tokyonigth" width="500" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NovaesThiago&show_icons=true&theme=tokyonigth" width="400" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaesThiago&layout=compact&theme=tokyonigth" width="381" alt="Top Languages" />
 </p>
 
