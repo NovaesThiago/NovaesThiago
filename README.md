@@ -44,18 +44,12 @@ Here are some ideas to get you started:
   <a href="https://www.java.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   </a>
-</p>
-<p align="left">
   <a href="https://vuejs.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/>
   </a>
-</p>
-<p align="left">
   <a href="https://www.pgadmin.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL / pgAdmin"/>
   </a>
-</p>
-<p align="left">
   <a href="https://www.docker.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   </a>
