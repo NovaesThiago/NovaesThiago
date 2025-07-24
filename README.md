@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🎓 Studying analysis and development of systems in IFPI(Instituto Federal do Piaui)
-- 🌱 Currently learning Python, VUE.js, C and database systems (PostgreSQL)
+- 🌱 Currently learning C, NODE.JS, JAVA and database systems (PostgreSQL)
 - 📫 How to reach me: novaesthiagoss@gmail.com
 
 
