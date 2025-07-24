@@ -44,3 +44,5 @@ Connect with me
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
 </p>
+
+![Snake animation](https://github.com/NovaesThiago/NovaesThiago/blob/output/github-contribution-grid-snake.svg)
