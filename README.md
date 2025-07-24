@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <!-- Linguagens de Programação -->
-<h3>📌 Linguagens</h3>
+<h3>📌 Languages and Tolls</h3>
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
@@ -45,25 +45,16 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   </a>
 </p>
-
-<!-- Framework / Biblioteca -->
-<h3>🧩 Frameworks & Bibliotecas</h3>
 <p align="left">
   <a href="https://vuejs.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/>
   </a>
 </p>
-
-<!-- Banco de Dados -->
-<h3>🗄️ Banco de Dados</h3>
 <p align="left">
   <a href="https://www.pgadmin.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL / pgAdmin"/>
   </a>
 </p>
-
-<!-- Contêiner e DevOps -->
-<h3>🐳 Contêiner & DevOps</h3>
 <p align="left">
   <a href="https://www.docker.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
