@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagonovaes&theme=radical" alt="GitHub Streak" />
+</p>
+
 - 🎓 Studying analysis and development of systems in IFPI(Instituto Federal do Piaui)
 - 🌱 Currently learning C, NODE.JS, JAVA and database systems (PostgreSQL)
 - 📫 How to reach me: novaesthiagoss@gmail.com
