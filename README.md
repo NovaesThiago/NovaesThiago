@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=NovaesThiago&show_icons=true&theme=tokyonigth" width="400" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaesThiago&layout=compact&theme=tokyonigth" width="305" alt="Top Languages" />
 </p>
+
 <!-- Linguagens de Programação -->
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-DD0031?style=for-the-badge&logo=java&logoColor=white)
@@ -29,6 +30,7 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+<!-- Sobre mim -->
 - 🎓 Studying analysis and development of systems in IFPI(Instituto Federal do Piaui)
 - 🌱 Currently learning C, NODE.JS, JAVA and database systems (PostgreSQL)
 - 📫 How to reach me: novaesthiagoss@gmail.com
