@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NovaesThiago&show_icons=true&theme=tokyonigth" width="473" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaesThiago&layout=compact&theme=tokyonigth" width="360" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NovaesThiago&show_icons=true&theme=tokyonight" width="473" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaesThiago&layout=compact&theme=tokyonight" width="360" alt="Top Languages" />
 </p>
+
 
 <!-- Linguagens de Programação -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
