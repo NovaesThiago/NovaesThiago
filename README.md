@@ -1,7 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3FA8FF&height=120&section=header"/>
 
-# Hi there I'm Thiago Novaes 👋
-### A Full-stack developer with an emphasis on front-end development.
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+There;I'm+Thiago+Novaes;A+Full-stack+developer;)](https://git.io/typing-svg)
+
+</div>
 
 <!--
 **NovaesThiago/NovaesThiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,19 +22,24 @@ Here are some ideas to get you started:
 -->
 
 <!-- Sobre mim -->
-- 🎓 Studying analysis and development of systems in IFPI(Instituto Federal do Piaui)
-- 🌱 Currently learning React.js and TailWindCSS
-- 📫 How to reach me: novaesthiagoss@gmail.com
+*- 🎓 Studying analysis and development of systems in IFPI(Instituto Federal do Piaui)*
 
-Connect with me
+*- 🌱 Currently learning React.js and TailWindCSS*
 
+*- 📫 How to reach me: novaesthiagoss@gmail.com*
+
+<div align="center">
+  
+  ## Connect with me
+  
   <a href="https://www.instagram.com/thiago_nova3s" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram"/>
-</a>
-  <a href="https://www.linkedin.com/in/thiago-novaes-2181532a8/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram"/>
   </a>
-</p>
+    <a href="https://www.linkedin.com/in/thiago-novaes-2181532a8/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+    </a>
+  </p>
+</div>
 
 
 <!-- Linguagens de Programação -->
