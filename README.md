@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Thiago+Novaes;A+Full-stack+developer;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Thiago+Novaes;A+Front-end+developer;)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- Sobre mim -->
 *- 🎓 Studying analysis and development of systems in IFPI(Instituto Federal do Piaui)*
 
-*- 🌱 Currently learning React.js and TailWindCSS*
+*- 🌱 Currently learning Next.js and GSAP*
 
 *- 📫 How to reach me: novaesthiagoss@gmail.com*
 
