@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 
 *- 📫 How to reach me: novaesthiagoss@gmail.com*
 
+
 <div align="center">
-  
+
   ## Connect with me
   
   <a href="https://www.instagram.com/thiago_nova3s" target="_blank">
@@ -40,6 +41,10 @@ Here are some ideas to get you started:
     </a>
   </p>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3FA8FF&height=120&section=footer"/>
+
+
 
 
 <!-- Linguagens de Programação -->
@@ -60,4 +65,3 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3FA8FF&height=120&section=footer"/>
