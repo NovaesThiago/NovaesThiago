@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 
 
 <!-- Linguagens de Programação -->
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NovaesThiago&layout=compact&langs_count=15&card_width=1010&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)](https://github.com/NovaesThiago)
+
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
