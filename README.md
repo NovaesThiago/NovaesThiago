@@ -24,7 +24,7 @@
 </div>
 
 <!-- Citações -->
-<div align="left" cols=2 rows=1>
+<div align="center" cols=2 rows=1>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
